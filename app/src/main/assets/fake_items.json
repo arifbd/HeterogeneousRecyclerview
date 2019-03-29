@@ -1,0 +1,94 @@
+{
+  "horizontal_items": [{
+    "name": "Estrada",
+    "photo": "http://placehold.it/32x32"
+  },
+    {
+      "name": "Delores",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "name": "Dorothea",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "name": "Elva",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "name": "Taylor",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "name": "Elvia",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "name": "Joyce",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "name": "Tami",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "name": "Bell",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "name": "Velazquez",
+      "photo": "http://placehold.it/32x32"
+    }
+  ],
+  "vertical_items": [{
+    "title": "Debbie",
+    "description": "Dickson Cotton Wiggins Crane Savage Greene",
+    "photo": "http://placehold.it/32x32"
+  },
+    {
+      "title": "Lenora",
+      "description": "Bernadine Dixon Vincent Kaufman Monica Kelly",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "title": "Tanner",
+      "description": "Franco Obrien Tabatha Levine Alissa Mccoy",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "title": "Diaz",
+      "description": "Nina Cummings Lily Orr Rocha Rosales",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "title": "Denise",
+      "description": "Richard Cameron Angela Pacheco Valencia Colon",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "title": "Nanette",
+      "description": "Mckee Burch Lina Norman Parks Morse",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "title": "Herring",
+      "description": "Beverly Stanley Alvarez Mcdonald Franks Middleton",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "title": "Cummings",
+      "description": "Selma Wyatt Maldonado Luna Jennifer Buckley",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "title": "Cherry",
+      "description": "Beatriz Estes Leah Ferrell Campbell Allen",
+      "photo": "http://placehold.it/32x32"
+    },
+    {
+      "title": "Jacklyn",
+      "description": "Sarah Hubbard Hahn Black Sykes Whitney",
+      "photo": "http://placehold.it/32x32"
+    }
+  ]
+}
