@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
     private fun getObject(): ArrayList<Any> {
         jsonHelper?.readHorizontalItemsJSON()?.get(0)?.let { objects.add(it) }
         jsonHelper?.readVerticalItemsJSON()?.get(0)?.let { objects.add(it) }
+        jsonHelper?.readHorizontalItemsJSON()?.get(0)?.let { objects.add(it) }
         return objects as ArrayList<Any>
     }
 }
